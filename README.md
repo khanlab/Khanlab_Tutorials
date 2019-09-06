@@ -1,5 +1,73 @@
 # Khanlab_Tutorials
 
+	• Introduction:
+		Collaborating: who is experienced in what?
+		Where do we get help?
+		Slack channel
+
+	• Intro to Linux & Compute Canada
+		Windows virtual machine
+		SSH  
+		Passwordless ssh
+		SSHFS for mounting drives and accessing data
+		Intro to Bash and commandline tools
+
+	• Data retrieval and conversion
+		Dicom server
+		BIDS
+
+	• Off the shelf processing
+		Singularity and docker intro
+		Running jobs on Compute Canada with Khanlab toolset (Neuroglia)
+		Off the shelf pipelines
+
+	• Data visualization
+		ITKSnap
+		FSL
+		Slicer
+		Paraview
+
+	• Python for scientific programming
+		Intro to pycharm IDE
+		Setup pycharm like matlab
+		Python for matlab users
+		Pip for finding and obtaining python packages
+
+	• Jupyter notebooks and Python best practices 
+		Introduction to Jupyter
+		Customizing Pycharm
+		Setting up a virtual environment (and why it’s useful)
+		GIT and pycharm
+
+	• Version control: Intro to GIT
+		Sales pitch for version control.
+		Making a good commit.
+		Saving changes to the cloud: github or gitlab
+
+	• Version control: Tour of GIT
+		A second sales pitch for version control.
+		Conceptually explain what Git can do 
+		Resources for learning GIT in detail
+
+	• Creating custom pipelines with Nipype
+		Why nipype instead of bash?
+		Nipype with fsl & freesurfer
+		Pipeline for parameter tweaking (parallelizing a parameter search)
+		Pipeline for studies (parallelizing subject processing)
+
+	• Singularity containers
+		Packaging a nipype pipeline into a singularity image
+		Run a singularity image on Compute Canada
+
+	• Testing and continuous integration
+		Unittest for python
+		Googletest for c++
+		Continuous integration  with gitlab
+		Continuous integration with github
+
+
+## previous schedule below -> TODO: update above order with details from below..
+
 1.Linux ? how to get access through windows (virtual machine) - Ali and Uzair (13th September)
 
  Windows sub-system
