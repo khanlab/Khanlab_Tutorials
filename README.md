@@ -1,57 +1,56 @@
 # Khanlab_Tutorials
 
 * Introduction: Sept 13
-		Collaborating: who is experienced in what?
-		Where do we get help?
-		Slack channel
+  * Collaborating: who is experienced in what?
+  * Where do we get help?
+  * Slack channel
 
 * Intro to Linux & Compute Canada: Sept 20
-		Windows virtual machine
-		SSH  
-		Passwordless ssh
-		SSHFS for mounting drives and accessing data
-		Intro to Bash and commandline tools
+  * Windows virtual machine
+  * Passwordless ssh
+  * SSHFS for mounting drives and accessing data
+  * Intro to Bash and commandline tools
 
 * Data retrieval and conversion: Sept 27
-		Dicom server
-		BIDS
+  * Dicom server
+  * BIDS
 
 * Off the shelf processing: Oct 4
-		Singularity and docker intro
-		Running jobs on Compute Canada with Khanlab toolset (Neuroglia)
-		Off the shelf pipelines
+  * Singularity and docker intro
+  * Running jobs on Compute Canada with Khanlab toolset (Neuroglia)
+  * Off the shelf pipelines
 
 * Data visualization: Oct 11
-		ITKSnap
-		FSL
-		Slicer
-		Paraview
+  * ITKSnap
+  * FSLeyes
+  * Slicer
+  * Paraview
 
 * Python for scientific programming: Oct 18
-		Intro to pycharm IDE
-		Setup pycharm like matlab
-		Python for matlab users
-		Pip for finding and obtaining python packages
+  * Intro to pycharm IDE
+  * Setup pycharm like matlab
+  * Python for matlab users
+  * Pip for finding and obtaining python packages
 
 * Jupyter notebooks and Python best practices: Oct 25
-		Introduction to Jupyter
-		Customizing Pycharm
-		Setting up a virtual environment (and why it’s useful)
-		GIT and pycharm
+  * Introduction to Jupyter
+  * Customizing Pycharm
+  * Setting up a virtual environment (and why it’s useful)
+  * GIT and pycharm
 
 
 * Version control: Intro to GIT: Methods Lunch Oct 28
-		Sales pitch for version control.
-		Making a good commit.
-		Saving changes to the cloud: github or gitlab
+  * Sales pitch for version control.
+  * Making a good commit.
+  * Saving changes to the cloud: github or gitlab
 
 * Version control: Tour of GIT . :  Nov 1 
-		A second sales pitch for version control.
-		Conceptually explain what Git can do 
-		Resources for learning GIT in detail
-		
-		
-* Giraffe - Graphical Interface for Reproducible Analysis oF workFlow Experiments - Nov 8
+  * A second sales pitch for version control.
+  * Conceptually explain what Git can do 
+  * Resources for learning GIT in detail
+				
+* Giraffe : Nov 8
+  * Graphical Interface for Reproducible Analysis oF workFlow Experiments
 
 
 ---- ---- ---- 
