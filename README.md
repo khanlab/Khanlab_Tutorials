@@ -1,69 +1,70 @@
 # Khanlab_Tutorials
 
-	• Introduction: Sept 13
+* Introduction: Sept 13
 		Collaborating: who is experienced in what?
 		Where do we get help?
 		Slack channel
 
-	• Intro to Linux & Compute Canada: Sept 20
+* Intro to Linux & Compute Canada: Sept 20
 		Windows virtual machine
 		SSH  
 		Passwordless ssh
 		SSHFS for mounting drives and accessing data
 		Intro to Bash and commandline tools
 
-	• Data retrieval and conversion: Sept 27
+* Data retrieval and conversion: Sept 27
 		Dicom server
 		BIDS
 
-	• Off the shelf processing: Oct 4
+* Off the shelf processing: Oct 4
 		Singularity and docker intro
 		Running jobs on Compute Canada with Khanlab toolset (Neuroglia)
 		Off the shelf pipelines
 
-	• Data visualization: Oct 11
+* Data visualization: Oct 11
 		ITKSnap
 		FSL
 		Slicer
 		Paraview
 
-	• Python for scientific programming: Oct 18
+* Python for scientific programming: Oct 18
 		Intro to pycharm IDE
 		Setup pycharm like matlab
 		Python for matlab users
 		Pip for finding and obtaining python packages
 
-	• Jupyter notebooks and Python best practices: Oct 25
+* Jupyter notebooks and Python best practices: Oct 25
 		Introduction to Jupyter
 		Customizing Pycharm
 		Setting up a virtual environment (and why it’s useful)
 		GIT and pycharm
 
 
-	• Version control: Intro to GIT: Methods Lunch Oct 28
+* Version control: Intro to GIT: Methods Lunch Oct 28
 		Sales pitch for version control.
 		Making a good commit.
 		Saving changes to the cloud: github or gitlab
 
-	• Version control: Tour of GIT . :  Nov 1 
+* Version control: Tour of GIT . :  Nov 1 
 		A second sales pitch for version control.
 		Conceptually explain what Git can do 
 		Resources for learning GIT in detail
 		
 		
-	Giraffe		- Nov 8
+* Giraffe - Graphical Interface for Reproducible Analysis oF workFlow Experiments - Nov 8
 
 
 ---- ---- ---- 
 
-	• Creating custom pipelines with Nipype - Nov 8 -- 
+## To be finalized:
+* Creating custom pipelines with Nipype - Nov 8 -- 
 		Why nipype instead of bash?
 		Nipype with fsl & freesurfer
 		Pipeline for parameter tweaking (parallelizing a parameter search)
 		Pipeline for studies (parallelizing subject processing)
 
 
-	• Singularity containers
+* Singularity containers
 		Packaging a nipype pipeline into a singularity image
 		Run a singularity image on Compute Canada
 
@@ -74,64 +75,13 @@
 		Continuous integration with github
 
 
-## previous schedule below -> TODO: update above order with details from below..
-
-1.Linux ? how to get access through windows (virtual machine) - Ali and Uzair (13th September)
-
- Windows sub-system
-
-2.How to access /mount/access data on graham - Hossein, Nick and Ali (13th September)
-
- SFTP, SSHF, globus, WINSCP
-
-3.Jupyter notebooks with intro to python -(Jason) . (20th September)
-
- Working with images/data formats
-
-* How to get your data, convert (dicom server, cfmm2tar etc.. )
-
-* Intro to Git & version control
-
-4.Intro to Matlab - Hossein and Tristan (27th September)
-
- Working with images/data formats
- 
-5.Intro to Bash and commandline tools - Roy and Dimuthu (4th October)
-
-6.Singularity and Docker - Ying Li
-
-7.Submitting a normal/bids app job/ neuroglia wrappers and Matlab+python in graham  Dimuthu and Ali (18th October)
-
-8.Python Nipype/containers -(Jason)
-
-9.Data visualization+Data formats - Jordan, Daniel, Uzair, Jason (25th October)
-
- FSL, ITKsnap, Slicer, Paraview
- 
-10.Command line image generation - Ali (1st November)
-
-11.Data processing & analysis
-
-12.Connectome workbench - Roy (8th November)
-
- Paper-ready vizualization of cortical surface data
-
-13. 3D printing - Trisan, Farah (15th November)
-
-14. Mrtrix - Farah (22nd November)
-
-15. Basic image registration (29th November)
- 
-
-*
-
 
 ## Current thoughts 
 
-*Have the tutorials done on Friday mornings (9.30 to 12) starting at the beginning of September. 
+* Have the tutorials done on Friday mornings (9.30 to 12) starting at the beginning of September. 
 
-*Each tutorial takes around 2 hours with a 10 minutes break with refreshments during the 2 hours.
+* Each tutorial takes around 2 hours with a 10 minute break during the 2 hours.
 
-*Must have a tutorial outline and sample data/task for everyone to work on.
+* Must have a tutorial outline and sample data/task for everyone to work on.
 
-*Tutorials will be recored and will make available for new students.
+* Tutorials will be recored and will make available for new students.
