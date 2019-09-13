@@ -11,9 +11,9 @@
   * SSHFS for mounting drives and accessing data
   * Intro to Bash and commandline tools
 
-* Data retrieval and conversion: Sept 27 (Igor Solovey)
+* Data retrieval and conversion: Sept 27
   * Dicom server
-  * BIDS
+  * BIDS <- Olivia and Jason have material
 
 * Off the shelf processing: Oct 4
   * Singularity and docker intro
@@ -44,7 +44,7 @@
   * Making a good commit.
   * Saving changes to the cloud: github or gitlab
 
-* Version control: Tour of GIT . :  Nov 1 (Igor Solovey)
+* Version control: Tour of GIT . :  Nov 1 
   * A second sales pitch for version control.
   * Conceptually explain what Git can do 
   * Resources for learning GIT in detail
@@ -56,7 +56,8 @@
 ---- ---- ---- 
 
 ## To be finalized:
-* Creating custom pipelines with Nipype - Nov 8 -- 
+* Creating custom pipelines with Nipype - Nov 8 -- <- Olivia has material/can lead the Miykeal tutorials
+
 		Why nipype instead of bash?
 		Nipype with fsl & freesurfer
 		Pipeline for parameter tweaking (parallelizing a parameter search)
