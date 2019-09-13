@@ -30,13 +30,13 @@
 * Python for scientific programming: Oct 18
   * Intro to pycharm IDE
   * Setup pycharm like matlab
-  * Python for matlab users
+  * Python for matlab users (Tristan doesn't use pycharm a ton but could help with some of this)
   * Pip for finding and obtaining python packages
 
 * Jupyter notebooks and Python best practices: Oct 25
   * Introduction to Jupyter
   * Customizing Pycharm
-  * Setting up a virtual environment (and why it’s useful)
+  * Setting up a virtual environment (and why it’s useful) (Tristan can help)
   * GIT and pycharm
 
 
@@ -52,7 +52,7 @@
   * Resources for learning GIT in detail
 				
 * Giraffe : Nov 8
-  * Graphical Interface for Reproducible Analysis oF workFlow Experiments - (Dimuthu)
+  * Graphical Interface for Reproducible Analysis oF workFlow Experiments
 
 
 ---- ---- ---- 
