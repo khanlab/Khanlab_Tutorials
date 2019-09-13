@@ -18,8 +18,8 @@
 
 * Off the shelf processing: Oct 4
   * Singularity and docker intro
-  * Running jobs on Compute Canada with Khanlab toolset (Neuroglia)
-  * Off the shelf pipelines
+  * Running jobs on Compute Canada with Khanlab toolset (Neuroglia) <- Suzanne could help with this
+  * Off the shelf pipelines <- Suzanne could do something about fmriPrep
 
 * Data visualization: Oct 11
   * ITKSnap (Geetika)
