@@ -60,11 +60,10 @@
 
 ## To be finalized:
 * Creating custom pipelines with Nipype - Nov 8 -- <- Olivia has material/can lead the Miykeal tutorials
-  * Why nipype instead of bash?
-  * Nipype with fsl & freesurfer
+  * Why nipype instead of bash?  
   * Pipeline for parameter tweaking (parallelizing a parameter search)
   * Pipeline for studies (parallelizing subject processing)
-
+  * Brief intro to custom interfaces
 
 * Singularity containers
   * Packaging a nipype pipeline into a singularity image
