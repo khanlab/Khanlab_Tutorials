@@ -12,9 +12,8 @@
   * Intro to Bash and commandline tools
 
 * Data retrieval and conversion: Sept 27
-  * Igor Solovey
-  * Dicom server
-  * BIDS <- Olivia and Jason have material
+  * Dicom server (Igor)
+  * BIDS <- (Olivia)
 
 * Off the shelf processing: Oct 4
   * Singularity and docker intro
@@ -45,8 +44,7 @@
   * Making a good commit.
   * Saving changes to the cloud: github or gitlab
 
-* Version control: Tour of GIT . :  Nov 1 
-  * Igor Solovey
+* Version control: Tour of GIT . :  Nov 1  (Igor)
   * A second sales pitch for version control.
   * Conceptually explain what Git can do 
   * Resources for learning GIT in detail
@@ -70,7 +68,7 @@
   * Packaging a nipype pipeline into a singularity image
   * Run a singularity image on Compute Canada
 
-* Testing and continuous integration
+* Testing and continuous integration (Igor)
   * Unittest for python
   * Googletest for c++
   * Continuous integration  with gitlab
