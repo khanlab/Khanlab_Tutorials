@@ -5,7 +5,7 @@
   * Where do we get help?
   * Slack channel
 
-* Intro to Linux & Compute Canada: Sept 20
+* Intro to Linux & Compute Canada: Sept 20 (Ali, ...)
   * Windows virtual machine
   * Passwordless ssh
   * SSHFS for mounting drives and accessing data
