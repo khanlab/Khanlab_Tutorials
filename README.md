@@ -11,8 +11,7 @@
   * SSHFS for mounting drives and accessing data
   * Intro to Bash and commandline tools
 
-* Data retrieval and conversion: Sept 27
-  * (Igor Solovey)
+* Data retrieval and conversion: Sept 27 (Igor Solovey)
   * Dicom server
   * BIDS
 
@@ -45,8 +44,7 @@
   * Making a good commit.
   * Saving changes to the cloud: github or gitlab
 
-* Version control: Tour of GIT . :  Nov 1 
-  * (Igor Solovey)
+* Version control: Tour of GIT . :  Nov 1 (Igor Solovey)
   * A second sales pitch for version control.
   * Conceptually explain what Git can do 
   * Resources for learning GIT in detail
