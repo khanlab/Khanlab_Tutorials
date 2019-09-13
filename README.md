@@ -52,7 +52,7 @@
   * Resources for learning GIT in detail
 				
 * Giraffe : Nov 8
-  * Graphical Interface for Reproducible Analysis oF workFlow Experiments
+  * Graphical Interface for Reproducible Analysis oF workFlow Experiments - (Dimuthu)
 
 
 ---- ---- ---- 
