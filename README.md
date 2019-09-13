@@ -21,9 +21,9 @@
   * Off the shelf pipelines
 
 * Data visualization: Oct 11
-  * ITKSnap
+  * ITKSnap (Geetika)
   * FSLeyes
-  * Slicer
+  * Slicer (Geetika)
   * Paraview
 
 * Python for scientific programming: Oct 18
