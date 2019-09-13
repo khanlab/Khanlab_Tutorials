@@ -12,6 +12,7 @@
   * Intro to Bash and commandline tools
 
 * Data retrieval and conversion: Sept 27
+  * Igor Solovey
   * Dicom server
   * BIDS <- Olivia and Jason have material
 
@@ -45,6 +46,7 @@
   * Saving changes to the cloud: github or gitlab
 
 * Version control: Tour of GIT . :  Nov 1 
+  * Igor Solovey
   * A second sales pitch for version control.
   * Conceptually explain what Git can do 
   * Resources for learning GIT in detail
