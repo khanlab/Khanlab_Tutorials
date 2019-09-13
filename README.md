@@ -13,9 +13,9 @@
 
 * Data retrieval and conversion: Sept 27
   * DICOM server (Igor)
-   * Requesting access to projects
-   * Ways to download datasets
-   * Conversion to Nifti
+    * Requesting access to projects
+    * Ways to download datasets
+    * Conversion to Nifti
   * BIDS <- (Olivia)
 
 * Off the shelf processing: Oct 4
