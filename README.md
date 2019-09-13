@@ -27,20 +27,19 @@
   * Slicer (Geetika)
   * Paraview
 
-* Python for scientific programming: Oct 18
+* Python for scientific programming: Oct 18 (Alan Kuurstra)
   * Intro to pycharm IDE
   * Setup pycharm like matlab
   * Python for matlab users (Tristan doesn't use pycharm a ton but could help with some of this)
+  * Data manipulation
   * Pip for finding and obtaining python packages
 
 * Jupyter notebooks and Python best practices: Oct 25
-  * Introduction to Jupyter
-  * Customizing Pycharm
-  * Setting up a virtual environment (and why it’s useful) (Tristan can help)
-  * GIT and pycharm
+  * Introduction to Jupyter  
+  * Setting up a virtual environment (and why it’s useful) (Tristan can help) 
+  * Python Naming Conventions, PEP8, and commenting code (Alan Kuurstra)
 
-
-* Version control: Intro to GIT: Methods Lunch Oct 28
+* Version control: Intro to GIT: Methods Lunch Oct 28 (Alan Kuurstra)
   * Sales pitch for version control.
   * Making a good commit.
   * Saving changes to the cloud: github or gitlab
@@ -64,7 +63,6 @@
   * Nipype with fsl & freesurfer
   * Pipeline for parameter tweaking (parallelizing a parameter search)
   * Pipeline for studies (parallelizing subject processing)
-
 
 * Singularity containers
   * Packaging a nipype pipeline into a singularity image
