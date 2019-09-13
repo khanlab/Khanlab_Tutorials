@@ -55,25 +55,24 @@
 
 ---- ---- ---- 
 
+
 ## To be finalized:
 * Creating custom pipelines with Nipype - Nov 8 -- <- Olivia has material/can lead the Miykeal tutorials
-
-		Why nipype instead of bash?
-		Nipype with fsl & freesurfer
-		Pipeline for parameter tweaking (parallelizing a parameter search)
-		Pipeline for studies (parallelizing subject processing)
+  * Why nipype instead of bash?
+  * Nipype with fsl & freesurfer
+  * Pipeline for parameter tweaking (parallelizing a parameter search)
+  * Pipeline for studies (parallelizing subject processing)
 
 
 * Singularity containers
-		Packaging a nipype pipeline into a singularity image
-		Run a singularity image on Compute Canada
+  * Packaging a nipype pipeline into a singularity image
+  * Run a singularity image on Compute Canada
 
-	• Testing and continuous integration
-		Unittest for python
-		Googletest for c++
-		Continuous integration  with gitlab
-		Continuous integration with github
-
+* Testing and continuous integration
+  * Unittest for python
+  * Googletest for c++
+  * Continuous integration  with gitlab
+  * Continuous integration with github
 
 
 ## Current thoughts 
