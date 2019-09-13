@@ -12,7 +12,10 @@
   * Intro to Bash and commandline tools
 
 * Data retrieval and conversion: Sept 27
-  * Dicom server (Igor)
+  * DICOM server (Igor)
+   * Requesting access to projects
+   * Ways to download datasets
+   * Conversion to Nifti
   * BIDS <- (Olivia)
 
 * Off the shelf processing: Oct 4
