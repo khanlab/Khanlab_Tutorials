@@ -8,25 +8,35 @@ Review the available options for connecting to linux systems, and best practices
 
 You will know: 
 * The various options for working remotely on a linux server, whether from mac, windows or linux
-* How your data should be stored and organized on compute canada
+* How to work with compute canada
 * How you can access data remotely using sftp, scp, sshfs and Globus
-* How to synchronize your code and scripts across systems using git
 * How to edit text documents on the command line (vi/emacs)
 
 ...
 
 ## Tasks:
 
-* demo of logging on from different OS's
+* Questions or clarifications from homework
+
+* Demo of logging on from different OS's
  * Windows (Uzair)
- * 
-* demo of editing files from the command-line
-* demo of basic git synchronization
- * clone, commit, push, pull
-* demo of Globus
-* demo of passwordless SSH + SSHFS
-* demo of setting up your project workspace on graham
-* demo of ROAMS
+ * demo of passwordless SSH + SSHFS  (Igor)
+
+ * Tour of compute canada (Ali)
+   * login node, compute nodes, submitting jobs
+   * squeue, scancel, sacct
+   * filesystems
+   * monitoring your job
+   * interactive jobs
+   
+ * Useful commands for transferring data: scp, rsync (Igor)
+
+ * demo of Globus (Ali)
+ 
+If time allows:
+ * demo of editing files from the command-line
+ * demo of ROAMS
+
 
 ...
 
@@ -40,15 +50,31 @@ n/a
 
 * Depending on OS, install:
   * Mac: XQuartz (X11), iTerm2 (a better terminal app)
-  * Windows: ..
+   * Add link to tutorial(s) here -- 
+  * Windows: 
+   * Install Linux sub-system
+   * Add link to most relevant tutorial here
   * Linux: ..
 
-* Read through tutorials on SSH and Linux if you are unfamiliar:
+
+* Accessing your data remotely
+  * Windows:
+   * Install WinSCP (URL: ..)
+  * Mac: 
+   * Install SSHFS (URL: ..)
+  * Linux:
+   * sshfs
+  * Install globus client (URL: .. ) 
+   
+
+* Linux Novices: Go through these tutorials on SSH and Linux if you are unfamiliar:
+  * LinkedIn Learning Videos: 
+   * URL : 
   * How to use SSH: https://docs.computecanada.ca/wiki/SSH
   * Intro to Linux: https://docs.computecanada.ca/wiki/Linux_introduction
 
-* Complete the github hello world
- https://guides.github.com/activities/hello-world/
+* Compute Canada Novices: Learn basics about compute canada - go through these video tutorials
+  * https://docs.computecanada.ca/wiki/Getting_started_with_the_new_national_systems
 
 ## Notes:
 
