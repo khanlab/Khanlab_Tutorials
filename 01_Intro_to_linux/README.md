@@ -49,23 +49,25 @@ n/a
 * Obtain a compute Canada account (see https://osf.io/4u5jr/wiki/Compute%20Canada/)
 
 * Depending on OS, install:
-  * Mac: XQuartz (X11), iTerm2 (a better terminal app)
-   * Add link to tutorial(s) here -- 
-  * Windows: 
-   * Install Linux sub-system
-   * Add link to most relevant tutorial here
-  * Linux:
+  * Windows Users: 
+    * Install Linux sub-system
+    * Add link to most relevant tutorial here
+  * Mac Users: 
+    * XQuartz (X11), iTerm2 (a better terminal app)
+    * Add link to tutorial(s) here -- 
+  * Linux Users:
     * Use system terminal (URL: https://tutorials.ubuntu.com/tutorial/command-line-for-beginners)
 
 
 * Accessing your data remotely
-  * Windows:
-   * Install WinSCP (URL: ..)
-  * Mac: 
-   * Install SSHFS (URL: ..)
-  * Linux:
+  * Windows Users:
+    * Install WinSCP (URL: ..)
+  * Mac Users: 
+    * Install SSHFS (URL: ..)
+  * Linux Users:
     * Install SSHFS (URL: https://help.ubuntu.com/community/InstallingSoftware#installing-a-package)
-  * Install globus client (URL: .. ) 
+  * All Users:
+    * Install globus client (URL: .. ) 
    
 
 * Linux Novices: Go through these tutorials on SSH and Linux if you are unfamiliar:
