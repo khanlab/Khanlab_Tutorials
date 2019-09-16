@@ -31,9 +31,11 @@ Review the available options for connecting to linux systems, and best practices
    
 
 * Linux Novices: Go through these tutorials on SSH and Linux if you are unfamiliar:
-  * LinkedIn Learning Lessons:
+  * LinkedIn Learning Mini-courses:
     *  https://www.linkedin.com/learning/learning-linux-command-line-2
+       *  sections 1, 2
     *  https://www.linkedin.com/learning/learning-ssh
+       *  sections 1, 2, 3
   * How to use SSH: https://docs.computecanada.ca/wiki/SSH
   * Intro to Linux: https://docs.computecanada.ca/wiki/Linux_introduction
 
