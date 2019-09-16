@@ -85,4 +85,5 @@
 * Must have a tutorial outline and sample data/task for everyone to work on.
 
 * Tutorials will be recored and will make available for new students.
+
 NOTE : please bring your laptops charged as extention chords might not be enough for everyone! 
