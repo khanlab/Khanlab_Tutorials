@@ -16,18 +16,18 @@ Review the available options for connecting to linux systems, and best practices
     * XQuartz (X11), iTerm2 (a better terminal app)
     * Add link to tutorial(s) here -- 
   * Linux Users:
-    * Use system terminal (URL: https://tutorials.ubuntu.com/tutorial/command-line-for-beginners)
+    * Use system terminal (https://tutorials.ubuntu.com/tutorial/command-line-for-beginners)
 
 
 * Accessing your data remotely
   * Windows Users:
-    * Install WinSCP (URL: ..)
+    * Install WinSCP (https://winscp.net/eng/download.php)
   * Mac Users: 
-    * Install SSHFS (URL: ..)
+    * Install SSHFS (https://www.sharcnet.ca/help/index.php/SSHFS)
   * Linux Users:
-    * Install SSHFS (URL: https://help.ubuntu.com/community/InstallingSoftware#installing-a-package)
+    * Install SSHFS (https://help.ubuntu.com/community/InstallingSoftware#installing-a-package)
   * All Users:
-    * Install globus client (URL: .. ) 
+    * Install Globus Connect Personal client (https://www.globus.org/globus-connect-personal  -OR- https://www.dropbox.com/sh/i7hs44qn87ph6nv/AAAUctO_4DjGp4TfF4LuIvfxa?dl=0) 
    
 
 * Linux Novices: Go through these tutorials on SSH and Linux if you are unfamiliar:
