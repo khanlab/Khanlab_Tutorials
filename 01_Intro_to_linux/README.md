@@ -6,7 +6,7 @@ Review the available options for connecting to linux systems, and best practices
 
 ## Prerequisites (Homework! Do this on your own before the tutorial): 
 
-* Obtain a compute Canada account (see https://osf.io/4u5jr/wiki/Compute%20Canada/)
+* Obtain a compute Canada account (see https://osf.io/4u5jr/wiki/Compute%20Canada/ - ask your supervisor for a CCRI)
 
 * Depending on OS, install:
   * Windows Users: 
@@ -31,8 +31,9 @@ Review the available options for connecting to linux systems, and best practices
    
 
 * Linux Novices: Go through these tutorials on SSH and Linux if you are unfamiliar:
-  * LinkedIn Learning Videos: 
-   * URL : 
+  * LinkedIn Learning Lessons:
+    *  https://www.linkedin.com/learning/learning-linux-command-line-2
+    *  https://www.linkedin.com/learning/learning-ssh
   * How to use SSH: https://docs.computecanada.ca/wiki/SSH
   * Intro to Linux: https://docs.computecanada.ca/wiki/Linux_introduction
 
@@ -93,3 +94,6 @@ https://docs.computecanada.ca/wiki/Compute_Canada_Documentation
 
 Globus portal:
 https://globus.computecanada.ca/file-manager
+
+LinkedIn Learning:
+https://linkedinlearning.uwo.ca/
