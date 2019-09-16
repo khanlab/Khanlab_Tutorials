@@ -54,7 +54,8 @@ n/a
   * Windows: 
    * Install Linux sub-system
    * Add link to most relevant tutorial here
-  * Linux: ..
+  * Linux:
+    * Use system terminal (URL: https://tutorials.ubuntu.com/tutorial/command-line-for-beginners)
 
 
 * Accessing your data remotely
@@ -63,7 +64,7 @@ n/a
   * Mac: 
    * Install SSHFS (URL: ..)
   * Linux:
-   * sshfs
+    * Install SSHFS (URL: https://help.ubuntu.com/community/InstallingSoftware#installing-a-package)
   * Install globus client (URL: .. ) 
    
 
