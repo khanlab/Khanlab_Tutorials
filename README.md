@@ -48,14 +48,14 @@
 
 * Version control: Tour of GIT . :  Nov 1  (Igor)
   * A second sales pitch for version control.
-  * Conceptually explain what Git can do 
+  * Conceptually explain what Git can do
   * Resources for learning GIT in detail
-				
+
 * Giraffe : Nov 8
   * Graphical Interface for Reproducible Analysis oF workFlow Experiments
 
 
----- ---- ---- 
+---- ---- ----
 
 
 ## To be finalized:
@@ -76,9 +76,9 @@
   * Continuous integration with github
 
 
-## Current thoughts 
+## Current thoughts
 
-* Have the tutorials done on Friday mornings (9.30 to 12) starting at the beginning of September. 
+* Have the tutorials done on Friday mornings (9.30 to 12) starting at the beginning of September.
 
 * Each tutorial takes around 2 hours with a 10 minute break during the 2 hours.
 
@@ -86,4 +86,4 @@
 
 * Tutorials will be recored and will make available for new students.
 
-NOTE : please bring your laptops charged as extention chords might not be enough for everyone! 
+NOTE : please bring your laptops charged as extention chords might not be enough for everyone!
