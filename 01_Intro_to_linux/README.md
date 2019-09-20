@@ -99,3 +99,7 @@ https://globus.computecanada.ca/file-manager
 
 LinkedIn Learning:
 https://linkedinlearning.uwo.ca/
+
+MATLAB on Graham:
+- Request access to Western TAH license on sharcnet by sending an e-mail to bge@sharcnet.ca with your WesternID, compute canada ID, and position (student, post-doc etc).
+
