@@ -25,7 +25,7 @@
 
 * Data visualization: Oct 11
   * ITKSnap (Geetika)
-  * FSLeyes
+  * FSLeyes (Sudesna)
   * Slicer (Geetika)
   * Paraview (Jason)
 
