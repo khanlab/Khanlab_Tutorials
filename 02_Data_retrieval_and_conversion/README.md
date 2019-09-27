@@ -1,4 +1,11 @@
 # Khanlab Tutorial 2: Data Retrieval and Conversion
+
+| | |
+|-|-|
+| date: | September 27, 2019 |
+| slides: | [download](https://docs.google.com/presentation/d/1zor12oH5fjXIaqTRPtJEt2KDd6MP8e3dgRCGhaWOjXs/edit?usp=sharing) |
+| screen cast: | |
+
 ## Objective:
 Outline the CFMM dicom server operation and how to convert data to BIDS from the dicom server
 
