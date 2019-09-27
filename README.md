@@ -73,7 +73,7 @@
   * Unittest for python
   * Googletest for c++
   * Continuous integration  with gitlab
-  * Continuous integration with github
+  * Continuous integration with github (Jason can talk a little bit about github actions here!)
 
 
 ## Current thoughts
