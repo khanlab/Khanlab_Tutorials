@@ -1,5 +1,12 @@
 # Khanlab Tutorial 1: Accessing Linux & Compute Canada Data
 
+
+| | |
+|-|-|
+| date: | September 20, 2019 |
+| slides: | [download](https://docs.google.com/presentation/d/1ICdpMkhg5Q06czefurOs8Dc5YgSUhxVQ2Mn0XD12RZ8/edit?usp=sharing) |
+| screen cast: | |
+
 ## Objective:
 
 Review the available options for connecting to linux systems, and best practices for organizing and accessing your data on Compute Canada
