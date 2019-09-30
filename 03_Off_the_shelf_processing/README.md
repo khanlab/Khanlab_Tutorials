@@ -24,11 +24,26 @@
  
 ## Tasks:
  * What is singularity
+   * singularity run
+   * singularity shell
+   * singularity exec
+   * binding paths
+    * watch out for ~/.local 
  * Using singularity on compute canada from scratch (without neuroglia-helpers)
+   * BIDS Apps basic usage
+   * Creating a job to run mriqc
  * Setting up neuroglia-helpers
  * Running a bidsBatch job (e.g. mriqc)
+   * required arguments
+   * feeding options to bidsBatch, and options to the BIDS app itself
+   * job-templates and default options
  * Adding new apps/versions with a pull request
  * Walkthrough of other scripts in neuroglia-helpers
+   * shortcuts for tar2bids, cfmm2tar, dicom2tar, validator, listNumberFiles
+   * neuroglia, neurogliaSubmit, regularSubmit, and SINGULARITY_IMG env var
+   * neurogliaBatch, regularBatch
+   * joblistSubmit, joblistSubmitSequential
+   * regularInteractive
  
 ## Data:
 
