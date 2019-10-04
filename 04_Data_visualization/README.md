@@ -16,6 +16,16 @@ Learn about a number of visualization tools and how to use them including ITKSna
 * Shortcuts & filters for manipulating loaded data
 * View / create animations via paraview (great for visualizing tractography)
 
+### 3D Slicer
+* 
+
+### ITK-SNAP
+* 
+
+### FSL-Eyes
+* 
+
+
 ## Tasks:
 
 ### Paraview
@@ -23,6 +33,16 @@ Learn about a number of visualization tools and how to use them including ITKSna
 * Demo paraview
 * Multiple render windows
 * Animations
+
+### 3D Slicer
+* 
+
+### ITK-SNAP
+* 
+
+### FSL-Eyes
+* 
+
 
 ## Data:
 
