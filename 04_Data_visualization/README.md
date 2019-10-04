@@ -5,14 +5,15 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 ## Prerequisites (Homework! Do this on your own before the tutorial):
 * BRING A MOUSE if you have one handy! It will make navigating the data much easier.
-* You can use these tools via tigerVNC. but it does not allow for full functionality (e.g., Melodic on FSLeyes). 
-* To be able to follow along with the full tutorial please download and install the latest version of:
-* [FSLeyes](https://users.fmrib.ox.ac.uk/~paulmc/fsleyes/userdoc/latest/install.html) on your system
-* [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3) on your system
-* [3D Slicer](https://download.slicer.org/) on your system
-* [Paraview](https://www.paraview.org/) on your system
-
-
+* To be able to follow along with the full tutorial please download and install the latest versions of:
+    * [FSLeyes](https://users.fmrib.ox.ac.uk/~paulmc/fsleyes/userdoc/latest/install.html)
+    * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3)
+    * [3D Slicer](https://download.slicer.org/)
+    * [Paraview](https://www.paraview.org/)
+    * _Note: You can use these tools via tigerVNC. but it does not allow for full functionality (e.g., Melodic on FSLeyes)._
+* Download the data!
+    * If you have access to Graham, the data is available on Graham `/scratch/tkai/Khanlab_Tutorial5`. To access this offline, either mount the path locally via `sshfs` or create a symlink on Graham to an existing mounted directory.
+    * Data can be downloaded here at _online storage location?_
 
 ## At the end of this tutorial, you will know how to:
 
@@ -28,7 +29,7 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 
 ### 3D Slicer
-* 
+*
 
 
 ### Paraview
@@ -56,16 +57,13 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 
 ### 3D Slicer
-* 
+*
 
 ### Paraview
 * Check on prerequisite (installation)
 * Demo paraview
 * Multiple render windows
 * Animations
-
-
-
 
 ## Data:
 
@@ -79,7 +77,8 @@ Learn about a number of visualization tools and how to use them including FSLeye
 *
 
 ### Paraview
-* N/A
+* 3D model of brain (`brain.vtk`)
+* 3D model of selected tractography
 
 ## Notes:
 * Paraview can also perform other analyis (eg. finite-element modelling)
