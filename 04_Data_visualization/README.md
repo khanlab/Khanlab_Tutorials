@@ -14,17 +14,17 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 
 
-## At the end of this tutorial, you will know:
+## At the end of this tutorial, you will know how to:
 
 ### FSL-Eyes
-* How to load structural images and overlays
-* How to optimize the view window (min/max intensity, greyscale/other)
-* How to run FSL MELODIC ICA and load in FSLeyes to view noise/real components
+* Load structural images and overlays
+* Optimize the view window (min/max intensity, greyscale/other)
+* Run FSL MELODIC ICA and load in FSLeyes to view noise/real components
 
 ### ITK-SNAP
-* How to load structural images and 3D segmentations (e.g., from Freesurfer)
-* How to create NEW 3D segmentations using tools like free draw, active contour
-* How to view and navigate segmentations in the 3D window
+* Load structural images and 3D segmentations (e.g., from Freesurfer)
+* Create NEW 3D segmentations using tools like free draw, active contour
+* View and navigate segmentations in the 3D window
 
 
 ### 3D Slicer
