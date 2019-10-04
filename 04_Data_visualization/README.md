@@ -5,6 +5,8 @@ Learn about a number of visualization tools and how to use them including ITKSna
 
 ## Prerequisites (Homework! Do this on your own before the tutorial):
 * Download and install the latest version of [Paraview](https://www.paraview.org/) on your system
+* Download and install the latest version of [3D Slicer](https://download.slicer.org/) on your system
+* Download and install the latest version of [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3) on your system
 
 ## At the end of this tutorial, you will know:
 
