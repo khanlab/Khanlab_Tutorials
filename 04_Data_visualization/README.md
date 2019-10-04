@@ -7,6 +7,7 @@ Learn about a number of visualization tools and how to use them including ITKSna
 * Download and install the latest version of [Paraview](https://www.paraview.org/) on your system
 * Download and install the latest version of [3D Slicer](https://download.slicer.org/) on your system
 * Download and install the latest version of [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3) on your system
+* Download and install the latest version of [FSLeyes](https://users.fmrib.ox.ac.uk/~paulmc/fsleyes/userdoc/latest/install.html) on your system
 
 ## At the end of this tutorial, you will know:
 
@@ -20,10 +21,14 @@ Learn about a number of visualization tools and how to use them including ITKSna
 * 
 
 ### ITK-SNAP
-* 
+* How to load structural images and 3D segmentations (e.g., from Freesurfer)
+* How to create NEW 3D segmentations using tools like free draw, active contour
+* How to view and navigate segmentations in the 3D window
 
 ### FSL-Eyes
-* 
+* How to load structural images and overlays
+* How to optimize the view window (min/max intensity, greyscale/other)
+* How to run FSL MELODIC ICA and load in FSLeyes to view noise/real components
 
 
 ## Tasks:
@@ -38,10 +43,15 @@ Learn about a number of visualization tools and how to use them including ITKSna
 * 
 
 ### ITK-SNAP
-* 
+* Load T1 iamge, Load segmentation (Hippocampal?), view on 3 windows + 3D window
+* Create new segmentatio: hippocampal. Dark band label, slice by slice (save segmentation), grow segmentation (save segmentation), load seg1 (darkband).
 
 ### FSL-Eyes
-* 
+* Load T1 image, load overlay segmentation
+* Run melodic ICA code.
+* Save folder = melodic.ica
+* load folder melodic.ica in melodic view
+* view some noise and real components and make .txt to use for the filtering command
 
 
 ## Data:
