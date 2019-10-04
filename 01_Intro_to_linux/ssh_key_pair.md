@@ -60,3 +60,11 @@
   ```bash
   ssh graham.computecanada.ca
   ```
+  
+  ## Troubleshooting
+  
+  1. On Compute Canada servers, the above will not work unless `group` and `other` have no read, write or execute permissions on your home directory. Run the following on a Compute Canada server to make sure:
+  
+  ```bash
+  chmod go-rwx $HOME
+  ```
