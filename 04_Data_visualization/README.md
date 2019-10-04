@@ -35,3 +35,4 @@ Learn about a number of visualization tools and how to use them including ITKSna
 ## Resources:
 * Sharcnet Webinar on Paraview (2017): https://www.youtube.com/watch?v=yexB3W2FYM0
     * Good resource for learning about the extensive capabilities of paraview
+* 3D Slicer Training Documentation https://www.slicer.org/wiki/Documentation/4.10/Training
