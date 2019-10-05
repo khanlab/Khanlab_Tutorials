@@ -6,6 +6,7 @@
 | date: | September 20, 2019 |
 | slides: | [download](https://docs.google.com/presentation/d/1ICdpMkhg5Q06czefurOs8Dc5YgSUhxVQ2Mn0XD12RZ8/edit?usp=sharing) |
 | screen cast: | [play](https://youtu.be/fD9MZXhveYs)|
+| step-by-step guides: | [SSH key pair authentication](ssh_key_pair.md) |
 
 ## Objective:
 
