@@ -24,9 +24,9 @@
   * Off the shelf pipelines <- Suzanne could do something about fmriPrep
 
 * Data visualization: Oct 11
-  * ITKSnap (Geetika & Kayla)
-  * FSLeyes
-  * Slicer (Geetika & Kayla)
+  * ITKSnap (Geetika)
+  * FSLeyes (Sudesna)
+  * Slicer (Geetika)
   * Paraview (Jason)
 
 * Python for scientific programming: Oct 18 (Alan Kuurstra)
