@@ -29,7 +29,9 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 
 ### 3D Slicer
-*
+* Load structural images and 3D segmentations
+* Create 3D segmentations with segment editor
+* Use interactive Landmark Registration module
 
 
 ### Paraview
@@ -37,8 +39,6 @@ Learn about a number of visualization tools and how to use them including FSLeye
 * Create multiple renderers to view / compare data
 * Shortcuts & filters for manipulating loaded data
 * View / create animations via paraview (great for visualizing tractography)
-
-
 
 
 
@@ -57,7 +57,9 @@ Learn about a number of visualization tools and how to use them including FSLeye
 
 
 ### 3D Slicer
-*
+* Load T1w image, load segmentation (temporal lobe neocortex)
+* Demo segmentation module
+* Demo landmark registration module to register ex-vivo image and histology slides
 
 ### Paraview
 * Check on prerequisite (installation)
