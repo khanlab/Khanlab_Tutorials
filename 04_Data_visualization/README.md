@@ -12,8 +12,7 @@ Learn about a number of visualization tools and how to use them including FSLeye
     * [Paraview](https://www.paraview.org/)
     * _Note: You can use these tools via tigerVNC. but it does not allow for full functionality (e.g., Melodic on FSLeyes)._
 * Download the data!
-    * If you have access to Graham, the data is available on Graham `/scratch/tkai/Khanlab_Tutorial5`. To access this offline, either mount the path locally via `sshfs` or create a symlink on Graham to an existing mounted directory.
-    * Data can be downloaded here at _online storage location?_
+    * See the [data section](#data)
 
 ## At the end of this tutorial, you will know how to:
 
@@ -67,20 +66,13 @@ Learn about a number of visualization tools and how to use them including FSLeye
 * Multiple render windows
 * Animations
 
-## Data:
+## Data: <a name=data></a>
 
-### FSLeyes
-*
+Data for this tutorial is available on Graham (Compute Canada). If you have access to Graham, you can copy this data to your scratch folder using the following command.
 
-### ITKsnap
-*
+`cp /scratch/tkai/Khanlab_Tutorial5 /scratch/$USER`
 
-### 3D Slicer
-*
-
-### Paraview
-* 3D model of brain (`brain.vtk`)
-* 3D model of selected tractography
+If you do not have access to Graham, the data is available for download on [OSF](https://osf.io/4w6ch/).
 
 ## Notes:
 * Paraview can also perform other analyis (eg. finite-element modelling)
