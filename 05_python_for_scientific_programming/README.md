@@ -74,5 +74,9 @@ https://docs.python.org/3/tutorial/modules.html
 python for matlab users:  
 https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html  
 matlab vs python reshape:  
-https://bic-berkeley.github.io/psych-214-fall-2016/index_reshape.html
+https://bic-berkeley.github.io/psych-214-fall-2016/index_reshape.html  
+a PEP8 formatting intro:  
+https://realpython.com/python-pep8/  
+Documenting code using Sphinx:  
+https://pythonhosted.org/an_example_pypi_project/sphinx.html  
 
