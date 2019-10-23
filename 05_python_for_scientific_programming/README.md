@@ -43,11 +43,27 @@ In command line type:
 #### Mac and ubuntu
 ```python3 -m pip install vidi3d```
 
+### 4) Download data  
+See Data section below
+
 ## At the end of this tutorial, you will know:
+* pycharm IDE  
+* some differences between matlab and python  
+* how to open and view an image in python  
+* howto import a module and package  
+* some common code formatting and commenting practices  
 
 ## Tasks:
+* introduce python  
+* setup pycharm environment  
+* open and view an image  
+* solve a least squares problem  
 
-## Data:
+## Data:  
+We will be showing you how to open some of the file types you have seen in the tutorials so far.  So please download the demo dicom dataset from the dicom server and save it in bids format.  Please keep both the dicom and the bids files.  Here's the link to that tutorial:  
+https://youtu.be/VzQWYe--_RQ  
+
+
 
 ## Notes:
 
