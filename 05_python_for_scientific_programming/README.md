@@ -1,6 +1,7 @@
 # Khanlab Tutorial 5: Python for Scientific Programming
 
 ## Objective:
+Introduce Python with a focus on medical image processing.  
 
 ## Prerequisites (Homework! Do this on your own before the tutorial):
 
@@ -68,3 +69,10 @@ https://youtu.be/VzQWYe--_RQ
 ## Notes:
 
 ## Resources:
+python modules:  
+https://docs.python.org/3/tutorial/modules.html  
+python for matlab users:  
+https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html  
+matlab vs python reshape:  
+https://bic-berkeley.github.io/psych-214-fall-2016/index_reshape.html
+
