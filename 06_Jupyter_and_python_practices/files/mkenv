@@ -1,0 +1,23 @@
+#!/bin/bash
+
+if [ "$#" -lt 1 ]
+then
+ echo ""
+ echo "Usage mkenv <venv_name>"
+ echo ""
+ exit 0
+fi
+
+venv=$1
+
+echo "Creating virtual environment..."
+echo ""
+python -m virtualenv `pwd`/${venv}
+echo ""
+echo "Adding ${venv} to ~/.bash_aliases"
+echo "alias ${venv}='source `pwd`/${venv}/bin/activate'" >> ~/.bash_aliases
+
+echo ""
+echo "Finished creating virtual environment..."
+echo "Source .bashrc to use virtual environment"
+echo ""
