@@ -79,4 +79,5 @@ a PEP8 formatting intro:
 https://realpython.com/python-pep8/  
 Documenting code using Sphinx:  
 https://pythonhosted.org/an_example_pypi_project/sphinx.html  
-
+Guide for Python on Compute Canada:
+https://docs.computecanada.ca/wiki/Python
