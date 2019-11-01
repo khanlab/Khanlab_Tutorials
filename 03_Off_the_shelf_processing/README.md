@@ -4,7 +4,7 @@
 |-|-|
 | date: | Oct 4, 2019 |
 | slides: |   |
-| screen cast: |  |
+| screen cast: | [play](https://youtu.be/CGEwn9xpOZc) |
 
 ## Objective:
  * Demonstrate how containers (Singularity) can be used to run pre-packaged apps and environments on Compute Canada, and how to use neuroglia-helpers to easily run BIDS Apps across nodes. 
