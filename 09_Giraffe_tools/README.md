@@ -32,6 +32,8 @@ Introduction to Graphical Interface for Reproducible Analysis oF workFlow Experi
 
 ## Data:
 
+BIDS test data : https://drive.google.com/file/d/1ZsJGDHsGl3eZMYnI1k4XkJJ-qlAMRbsN/view?usp=sharing
+
 n/a
 
 ## Notes:
