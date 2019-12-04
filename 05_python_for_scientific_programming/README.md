@@ -1,5 +1,11 @@
 # Khanlab Tutorial 5: Python for Scientific Programming
 
+| | |
+|-|-|
+| date: | Oct 18, 2019 |
+| slides: |   |
+| screen cast: | [play](https://www.youtube.com/watch?v=nixmsGcV5_s&feature=youtu.be) |
+
 ## Objective:
 Introduce Python with a focus on medical image processing.  
 
