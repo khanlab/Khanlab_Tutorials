@@ -1,5 +1,11 @@
 # Khanlab Tutorial 6: Jupyter Notebooks and Python Best Practices
 
+| | |
+|-|-|
+| date: | Oct 18, 2019 |
+| slides: |   |
+| screen cast: | [play](https://www.youtube.com/watch?v=nixmsGcV5_s&feature=youtu.be) |
+
 ## Objective:
 Learn about Python, virtual environments, Jupyter, how to use it on Graham, and best Python programming practices!
 
