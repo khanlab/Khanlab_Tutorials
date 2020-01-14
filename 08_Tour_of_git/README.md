@@ -1,5 +1,11 @@
 # Khanlab Tutorial 8: Version control: Tour of GIT
 
+|-|-|
+| date: | Oct 4, 2019 |
+| slides: |   |
+| screen cast: |  |
+| screen cast: | [play](https://youtu.be/xsAOrWfLIQw) |
+
 ## Objective:
 
 To go over some practical topics and "good practices" related to using `git` for personal and collaborative projects.
