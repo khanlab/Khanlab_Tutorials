@@ -1,10 +1,12 @@
 # Khanlab Tutorial 8: Version control: Tour of GIT
 
+| | |
 |-|-|
-| date: | Oct 4, 2019 |
+| date: | Nov 8, 2019 |
 | slides: |   |
-| screen cast: |  |
 | screen cast: | [play](https://youtu.be/xsAOrWfLIQw) |
+
+
 
 ## Objective:
 
