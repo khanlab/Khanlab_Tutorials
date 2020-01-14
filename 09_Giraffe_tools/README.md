@@ -4,7 +4,7 @@
 |-|-|
 | date: | November 22, 2019 |
 | slides: | |
-| screen cast: | |
+| screen cast: | [play](https://youtu.be/dR_Ujwp1Wq8)|
 
 ## Objective:
 Introduction to Graphical Interface for Reproducible Analysis oF workFlow Experiments (GIRAFFE).
