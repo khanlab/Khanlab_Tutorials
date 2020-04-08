@@ -1,5 +1,11 @@
 # Khanlab Tutorial 4: Data visualization
 
+| | |
+|-|-|
+| date: | Oct 9, 2019 |
+| slides: |   |
+| screen cast: | [play](https://youtu.be/zTeg9E3stkk) |
+
 ## Objective:
 Learn about a number of visualization tools and how to use them including FSLeyes, ITKSnap, 3DSlicer, and Paraview!
 
